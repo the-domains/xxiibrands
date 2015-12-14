@@ -1,0 +1,28 @@
+name: xxiibrands
+favicon: null
+layout_spectrum: 0.5813858828041703
+typography_spectrum: 0.551152630476281
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.27965024346485734
+  lightness: 0.1584235148038715
+  saturation: 0.8272184871602803
+  rhythmicContrast: 0.6428618466015905
+purpose: []
